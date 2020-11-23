@@ -1,2 +1,3 @@
 # c
-share c learn 
+
+- share c learn
